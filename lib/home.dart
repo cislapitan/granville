@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:granvilleapp/pages/CartPage.dart';
-import 'package:granvilleapp/pages/HomePage.dart';
-import 'package:granvilleapp/pages/ProfilePage1.dart';
-import 'package:granvilleapp/pages/SearchPage.dart';
+import 'package:granvilleapp/client/pages/CartPage.dart';
+import 'package:granvilleapp/client/pages/HomePage.dart';
+import 'package:granvilleapp/client/pages/ProfilePage1.dart';
+import 'package:granvilleapp/client/pages/SearchPage.dart';
 
 class Home extends StatefulWidget {
   @override
