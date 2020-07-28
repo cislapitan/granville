@@ -146,7 +146,7 @@ class _ProductDetailsPageState extends State<ProductDetailsPage>
               Container(
                 margin: EdgeInsets.only(left: 8),
                 child: Text(
-                  "Granville Milk",
+                  "Baygon",
                   style: CustomTextStyle.textFormFieldSemiBold
                       .copyWith(color: Colors.black),
                 ),

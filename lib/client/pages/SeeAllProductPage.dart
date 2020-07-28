@@ -189,7 +189,7 @@ class _SeeAllProductPageState extends State<SeeAllProductPage> {
         children: <Widget>[
           Container(
             child: Text(
-              "Granville Milk",
+              "Baygon",
               style: CustomTextStyle.textFormFieldBold.copyWith(fontSize: 12),
               textAlign: TextAlign.start,
             ),

@@ -97,7 +97,7 @@ class _LoginState extends State<Login> {
                         alignment: Alignment.centerRight,
                         child: GestureDetector(
                           child: Text(
-                            "Forget Password?",
+                            "Forgot Password?",
                             style: CustomTextStyle.textFormFieldBold
                                 .copyWith(color: Colors.blue, fontSize: 14),
                           ),

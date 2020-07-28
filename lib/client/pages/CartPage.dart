@@ -146,7 +146,7 @@ class _CartPageState extends State<CartPage> {
                       Container(
                         padding: EdgeInsets.only(right: 8, top: 4),
                         child: Text(
-                          "Granville Milk",
+                          "Baygon",
                           maxLines: 2,
                           softWrap: true,
                           style: CustomTextStyle.textFormFieldSemiBold
@@ -155,7 +155,7 @@ class _CartPageState extends State<CartPage> {
                       ),
                       Utils.getSizedBox(height: 6),
                       Text(
-                        "1 Gallon",
+                        "500ml",
                         style: CustomTextStyle.textFormFieldRegular
                             .copyWith(color: Colors.grey, fontSize: 14),
                       ),

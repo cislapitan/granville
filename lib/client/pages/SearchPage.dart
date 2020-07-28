@@ -211,7 +211,7 @@ class _SearchPageState extends State<SearchPage> {
           ),
           Utils.getSizedBox(height: 4),
           Text(
-            "Granville Milk",
+            "Baygon",
             overflow: TextOverflow.ellipsis,
             textWidthBasis: TextWidthBasis.parent,
             softWrap: true,
@@ -282,7 +282,7 @@ class _SearchPageState extends State<SearchPage> {
           Container(
             margin: EdgeInsets.symmetric(horizontal: 4),
             child: Text(
-              "Granville Milk",
+              "Baygon",
               style: CustomTextStyle.textFormFieldRegular
                   .copyWith(color: Colors.black.withOpacity(0.7), fontSize: 12),
             ),
@@ -381,7 +381,7 @@ class _SearchPageState extends State<SearchPage> {
           Container(
             margin: EdgeInsets.symmetric(horizontal: 4),
             child: Text(
-              "Granville Milk",
+              "Baygon",
               style: CustomTextStyle.textFormFieldRegular
                   .copyWith(color: Colors.black.withOpacity(0.7), fontSize: 12),
             ),

@@ -252,13 +252,13 @@ class _HomePageState extends State<HomePage> {
                 children: <Widget>[
                   Utils.getSizedBox(height: 8),
                   Text(
-                    "Granville Milk",
+                    "Baygon",
                     style: CustomTextStyle.textFormFieldSemiBold.copyWith(
                         color: Colors.black.withOpacity(.7), fontSize: 12),
                   ),
                   Utils.getSizedBox(height: 4),
                   Text(
-                    "1 Gallon",
+                    "500ml",
                     style: CustomTextStyle.textFormFieldSemiBold.copyWith(
                         color: Colors.black.withOpacity(.7), fontSize: 10),
                   )
